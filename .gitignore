@@ -1,0 +1,23 @@
+# Jekyll build artifacts
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+vendor/
+.bundle/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ruby version managers
+.rbenv-version
+.ruby-version
+
+# Node modules (if using JS tooling)
+node_modules/
+
+Gemfile.lock
