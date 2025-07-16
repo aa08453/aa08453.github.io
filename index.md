@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Welcome
+title: Home
+[About Me](/about/)
+
 ---
 
 # Welcome
