@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Home
-[About Me](/about/)
+title: Welcome
 
 ---
 
 # Welcome
 
 
-### [About Me](/about)  
+### [About Me](/about)
 ### [Art](/art)
 ### [Blog](/blog)
